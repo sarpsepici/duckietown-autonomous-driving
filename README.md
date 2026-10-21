@@ -1,6 +1,6 @@
-# Duckietown Autonomous Driving: PID Lane Following
+# Duckietown Autonomous Driving:
 
-Bachelor's thesis (team project), EPFL Mechanical Engineering, 2022.
+Bachelor's thesis (team project).
 
 We designed and tuned PID controllers that keep a Duckiebot driving in its lane in the
 [Duckietown](https://www.duckietown.org/) simulator. The simulator is Duckietown's open-source
